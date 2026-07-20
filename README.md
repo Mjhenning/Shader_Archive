@@ -1,4 +1,4 @@
-This repository is responsible for archiving various shaders created by Marco Henning. This repository will be expanded over time with more shaders, both 3D, 2D and volumetric.
+This repository is responsible for archiving various shaders created by Marco Henning. This repository will be expanded over time with more shaders,3D, 2D and volumetric.
 
 1) Frutiger Jelly:
 A Frutiger Aero-inspired translucent shader with a rim highlight and spotlight.
