@@ -1,7 +1,7 @@
 //---------------------------------------------------------
 // Jelly Lamp
 //
-// Raymarched Signed Distance Field (SDF) lava lamp.
+// Raymarched Signed Distance Field (SDF) lava lamp with a frutiger-aero jelly exterior.
 //
 // Rather than modelling the liquid with geometry, the lava is represented as a Signed Distance Field composed from multiple simple SDF primitives.
 //
